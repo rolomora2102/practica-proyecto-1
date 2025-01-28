@@ -1,0 +1,25 @@
+Pregunta 2
+
+Describa los cuatro atributos importantes que debe tener todo producto de
+software. Sugiera además cuatro atributos adicionales que podrían ser
+significativos para productos específicos.
+
+-Los 4 atributos imporantes-
+
+1.) Mantenibilidad: Este se refiere a que el software debe de ser diseñado de tal forma que éste pueda mejorar, cambiar, o evolucionar para cumplir los posibles cambios que un cliente pueda requerir con el tiempo.
+
+2.) Confiabilidad: El software diseñado no debería de causar problemas físicos o económicos al cliente es caso de que éste pueda llegara a fallar en algún momento
+
+3.) Eficiencia: Como lo indica el nombre, el producto no debe de malgastar los recursos del sistema, por ejemplo: la memoria
+
+4.) Usabilidad: Es la facilidad con la que los usuarios pueden aprender a utilizar el producto de la mejor manera posible
+
+-Sugerencias-
+
+1.) Seguridad: El producto debe de ser seguro para que se puedan proteger los datos y que no existan accesos no autorizados al sistema 
+
+2.) Compatibilidad: El software  debe de poder funcionar el múltiples plataformas (hoy en día los productos deberían de tener versiónes para diferentes sistemas como pc y celular)
+
+3.) Crecimiento: Este caso es para las aplicacónes que vayan a tener un posible incremento de usuarios (por ejemplo: un videojuego o un servicio de Streaming)
+
+4.) Funcionalidad: El producto debe de cumplir con todos las necesidades del usuario.
