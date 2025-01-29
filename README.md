@@ -74,3 +74,4 @@ Estoy de acuerdo con ese enfoque, siempre y cuando hayan limites bien establecid
 Estoy de acuerdo siempre y cuando no sea un humano quien vea la informacion total de mis busquedas, sino que sea un sistema que busque patrones riegosos y listo. Por eso, el desarrollo de software puede darse la libertad de ver esa informacion, para la maquina es un 0 o un 1. 
 
 
+AFHKJADHKFAHKDJH
